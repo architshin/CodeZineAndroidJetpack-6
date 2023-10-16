@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">ViewBinding</string>
+	<string name="tv_label">発生した乱数: </string>
+	<string name="btn_label">乱数発生</string>
+</resources>
